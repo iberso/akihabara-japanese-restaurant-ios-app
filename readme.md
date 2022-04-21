@@ -1,4 +1,4 @@
-# akihabara-japanese-restaurant-ios-app
+# Akihabara Japanese Restaurant iOS App
 
 I made this application to fulfill my midterm exam assignments for iOS-based development courses.
 ![0 1_iOS_arti](https://user-images.githubusercontent.com/74914280/164382374-c439242b-d14f-47dd-ab46-55acb818dd5c.png)
